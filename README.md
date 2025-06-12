@@ -40,7 +40,8 @@ No build tools or dependencies required.
 
 <img src="https://github.com/user-attachments/assets/714ca94f-a5c6-4d97-9f6c-289d8379aaff" alt="Tesla Landing Page Hero Section" width="400" height="200">
 <img src="https://github.com/user-attachments/assets/c5815bd2-52c3-40de-8e3e-b850a3856364" alt="Tesla Landing Page Models Section" width="400" height="200">
-<img src="https://github.com/user-attachments/assets/e451f503-b787-402f-aeac-eb89a659fbf0" alt="Tesla Landing Page Footer" width="400" height="200">
+<img src="https://github.com/user-attachments/assets/304c28cf-a0f9-4f8e-a9ad-2b1c6ee234b6" alt="Tesla Landing Page Footer" width="400" height="200">
+<img src="https://github.com/user-attachments/assets/fbaf8957-726b-4a59-b566-7dc6f8f68018" alt="Tesla Landing Page Footer" width="400" height="200">
 
 <!-- ![Tesla Landing Page Screenshot](screenshot.png) -->
 
